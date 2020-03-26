@@ -1,4 +1,4 @@
-# Real-Time-Chat-Python-Back
+# Real-Time-Chat-Python-Server
 This is the back-end project for the python real-time chat.
 
 ## Requirements
